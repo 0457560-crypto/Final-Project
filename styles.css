@@ -1,0 +1,17 @@
+body{
+    background-color:antiquewhite;
+    text-align: center;
+    font-family: "Changa One", system-ui;
+    color:black;
+    font-size: 1;
+}
+
+li{
+    list-style-type:none;
+}
+
+.container{
+    display:flex;
+    justify-content: space-between;
+
+}
