@@ -1,17 +1,22 @@
 body{
-    background-color:antiquewhite;
+    background-color: antiquewhite;
+}
+
+header{
     text-align: center;
-    font-family: "Changa One", system-ui;
-    color:black;
-    font-size: 1;
+    font-size: larger;
+    font-weight: bold;
+    font-family: "Sekuya", system-ui;
 }
 
-li{
-    list-style-type:none;
+p{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: "Share Tech", system-ui;
 }
 
-.container{
-    display:flex;
-    justify-content: space-between;
-
+footer{
+    background-color: rgb(203, 169, 119);
+    text-align: center;
 }
